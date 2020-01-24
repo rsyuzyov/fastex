@@ -7,7 +7,7 @@
 		<Metadata name="CommonModule.СервисHTTP.Module" id="33b8b56a-1569-47ad-9c27-a7dee9889eab.0" configVersion="5620d4d9958a1e5f190b2dfb44dfd248334a9154"/>
 		<Metadata name="CommonTemplate.Fastex_Help" id="0deb4229-142b-4936-b22b-8efa97626d2d" configVersion="6359d4700051438a22d90f1e44d449c78ae34bec"/>
 		<Metadata name="CommonTemplate.Fastex_Help.Template" id="0deb4229-142b-4936-b22b-8efa97626d2d.0" configVersion="2d0f2c77ea490d11c4a47e4ce0ac60761dd7e31b"/>
-		<Metadata name="Configuration.Fastex" id="164980f9-0d54-491c-965e-22ae9f1ae7ad" configVersion="0aab3b5505a63b6e60260525ac0d5964016b964e"/>
+		<Metadata name="Configuration.Fastex" id="164980f9-0d54-491c-965e-22ae9f1ae7ad" configVersion="78b55e392a192290141dc18263601eeaaa2e6ed6"/>
 		<Metadata name="HTTPService.fastex" id="786c89c4-8b40-44db-b0b0-7333ff852b48" configVersion="066063d71b1a25538c2be2d51a9b9a907139b6a8">
 			<Metadata name="HTTPService.fastex.URLTemplate.Data_Read.Method.POST" id="01a96735-c5a2-4117-a532-9d5dc12c5ef2"/>
 			<Metadata name="HTTPService.fastex.URLTemplate.Nodes.Method.GET" id="029d5272-3236-43a2-a779-8b8a4d5997b8"/>
@@ -69,7 +69,7 @@
 			<Metadata name="HTTPService.fastex.URLTemplate.Node_SetLastSync.Method.GET" id="f4146db0-28f6-4296-acda-12794fe44bad"/>
 			<Metadata name="HTTPService.fastex.URLTemplate.Help.Method.GET" id="fea6ac34-2b4d-4d7e-a660-bf6fbd3dddbf"/>
 		</Metadata>
-		<Metadata name="HTTPService.fastex.Module" id="786c89c4-8b40-44db-b0b0-7333ff852b48.0" configVersion="cdeec0221a68955ecf37bb42e4963a8ed8db5372"/>
+		<Metadata name="HTTPService.fastex.Module" id="786c89c4-8b40-44db-b0b0-7333ff852b48.0" configVersion="afb028e797a06c31287e1745593736eb4292de02"/>
 		<Metadata name="Language.Русский" id="297cb120-c311-4912-be1c-8e335e6afdb6" configVersion="19d2c7cce380e29ae264c2ad84730bda3557e5f1"/>
 		<Metadata name="Subsystem.ВсеОбъекты" id="83e5045b-dcfc-4a89-8ab8-2ce4a24e6d2a" configVersion="528d6788c47b5da4adee941ee875297b7064390d"/>
 	</ConfigVersions>
